@@ -88,12 +88,6 @@ A powerful **gradient boosting algorithm** optimized for large datasets and hand
 
 ---
 
-## 📊 **Confusion Matrices**
-#### **🔹 Random Forest**
-![Random Forest Confusion Matrix](https://user-images.githubusercontent.com/your-image-path/rf_confusion_matrix.png)  
-
-#### **🔹 XGBoost**
-![XGBoost Confusion Matrix](https://user-images.githubusercontent.com/your-image-path/xgb_confusion_matrix.png)  
 
 ---
 
@@ -120,13 +114,6 @@ We welcome contributions! Feel free to **fork** this repository, make changes, a
 This project is licensed under the **MIT License**.
 
 ---
-
-## 📥 **Contact**
-🔹 **GitHub:** [@your-username](https://github.com/your-username)  
-🔹 **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)  
-🔹 **Email:** your-email@example.com  
-
-🌟 **If you like this project, give it a ⭐ on GitHub!** 🚀  
 
 
 
@@ -229,6 +216,3 @@ Deep learning methods like **Autoencoders and LSTMs** can detect anomalies in tr
 - **Add behavioral analytics** to detect unusual spending habits dynamically.
 
 ---
-
-🎯 **If you find this useful, consider giving it a ⭐ on GitHub!** 🚀
-
